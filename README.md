@@ -60,7 +60,7 @@ See the provided example sketch (`FirebaseESP8266Demo.ino`) for a comprehensive 
 
 ## Contributions and Issues
 
-Feel free to contribute to the development of this library by submitting pull requests. If you encounter any issues or have suggestions, please open an issue on the [GitHub repository](https://github.com/your_username/your_repository).
+Feel free to contribute to the development of this library by submitting pull requests. If you encounter any issues or have suggestions, please open an issue on the [GitHub repository](https://github.com/atiquzz/FirebaseESP8266).
 
 ## License
 
